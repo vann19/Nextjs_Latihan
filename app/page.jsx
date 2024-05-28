@@ -1,5 +1,9 @@
+"use client";
+import { useEffect } from "react";
 export default function Home() {
-  console.log("hello world");
+  useEffect(() => {
+    window.alert("hello next js");
+  }, []);
   return (
     <>
       <h1>Ini page portal berita</h1>
