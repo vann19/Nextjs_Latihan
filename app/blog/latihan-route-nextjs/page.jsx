@@ -1,8 +1,10 @@
+
+
 export default function LatihanPage() {
     return(
     <>
-     <h1>beritaa</h1>
-     <p>List of post</p>
+     <h1>Latihan route next js</h1>
+     <p>mengunakan nextjs</p>
      
      </>
     );
