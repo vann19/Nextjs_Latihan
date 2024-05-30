@@ -1,9 +1,8 @@
-
-
+import Heading from "../../../components/Heading";
 export default function LatihanPage() {
     return(
     <>
-     <h1>Latihan route next js</h1>
+     <Heading>Latihan route next js</Heading>
      <p>mengunakan nextjs</p>
      
      </>

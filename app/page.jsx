@@ -1,7 +1,8 @@
+import Heading from "../components/Heading";
 export default function Home() {
   return (
     <>
-      <h1>Ini page portal berita</h1>
+      <Heading>Ini page portal berita</Heading>
       <p>Hello world ini adalah next js app</p>
     </>
   );
